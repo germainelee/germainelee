@@ -36,25 +36,25 @@ Over the past five years, I have been working with startups and established busi
   </tr>
 -->
   <tr>
-    <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="Figma" alt="Figma" height="32" style="max-width: 100%;"></a></td>
+    <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" title="Figma" alt="Figma" style="max-width: 100%;"></a></td>
     <td>Design wireframes and mockups, prototype</td>
   </tr>
   <tr>
-    <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" title="Adobe Photoshop" alt="Adobe Photoshop" height="32" style="max-width: 100%;"></a></td>
+    <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" title="Adobe Photoshop" alt="Adobe Photoshop" style="max-width: 100%;"></a></td>
     <td>Graphic design. Check out my <a target="_blank" href="https://www.behance.net/geeleeps">Behance projects</a></td>
   </tr>
   <tr>
-    <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" title="Adobe Illustrator" alt="Adobe Illustrator" height="32" style="max-width: 100%;"></a></td>
+    <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"> <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" title="Adobe Illustrator" alt="Adobe Illustrator" style="max-width: 100%;"></a></td>
     <td>Create icons/illustrations</td>
   </tr>
    <tr>
-    <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"> <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" title="Framer" alt="Framer" height="32" style="max-width: 100%;"></a></td>
+    <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"> <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" title="Framer" alt="Framer" style="max-width: 100%;"></a></td>
     <td><a href="#" title="Available upon request">Portfolio</a> containing a collection of past work case studies</td>
   </tr>
   <tr>
     <td>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5" height="32" style="max-width: 100%;"></a>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS3" height="32" style="max-width: 100%;"></a>     
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS3" style="max-width: 100%;"></a>     
     </td>
     <td>Understand responsive design and communicate with developers</td>
   </tr>
