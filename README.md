@@ -49,7 +49,7 @@ Over the past five years, I have been working with startups and established busi
   </tr>
    <tr>
     <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"> <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" title="Framer" alt="Framer" style="max-width: 100%;"></a></td>
-    <td><a href="#" title="Available upon request">Portfolio</a> containing a collection of past work case studies</td>
+    <td><a target="_blank" href="#" title="Available upon request">Portfolio</a> containing a collection of past work case studies</td>
   </tr>
   <tr>
     <td>
