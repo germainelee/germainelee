@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on [OMRChecker](https://github.com/Udayraj123/OMRChecker).
+🔭 I’m currently working on [upcoming casual simulator game](https://github.com/smkrexus/GGJ2024-UE5).
 
 Over the past five years, I have been working with startups and established businesses to transform complex problems into meaningful interactive experiences that offer utility and value to the end user through a digital product. I successfully delivered web and mobile app designs from concept to implementation across multiple industries – Heath & Wellness, Drone, and Manufacturing.
 
