@@ -51,11 +51,11 @@ Over the past five years, I have been working with startups and established busi
     <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" title="Adobe After Effects" alt="Adobe After Effects" style="max-width: 100%;"></a><br>
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Lottie-black?style=for-the-badge&logo=lottiefiles&logoColor=00DDB3"> <img src="https://img.shields.io/badge/Lottie-black?style=for-the-badge&logo=lottiefiles&logoColor=00DDB3" title="LottieFiles" alt="LottieFiles" style="max-width: 100%;"></a> 
     </td>
-    <td>Animate vector graphics</td>
+    <td>Animate vector graphics. <a target="_blank" href="https://www.behance.net/gallery/223960283/The-Next-Surge-Vector-Animation">See sample</a></td>
   </tr>
    <tr>
     <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"> <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" title="Framer" alt="Framer" style="max-width: 100%;"></a></td>
-    <td><a target="_blank" href="#" title="Available upon request">Portfolio</a> containing a collection of past work case studies</td>
+    <td>Portfolio containing a curated collection of past work case studies (available upon request)</td>
   </tr>
   <tr>
     <td>
